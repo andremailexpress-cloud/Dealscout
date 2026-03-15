@@ -1,1 +1,31 @@
+# Web framework
 streamlit
+
+# Data & visualization
+pandas
+plotly
+
+# Scraping
+aiohttp
+aiohttp-socks
+beautifulsoup4
+lxml
+fake-useragent
+requests
+urllib3
+
+# Database
+psycopg2-binary
+sqlalchemy
+aiosqlite
+
+# Utils
+python-dateutil
+pytz
+python-dotenv
+
+# Notifications
+python-telegram-bot==20.7
+
+# Testing
+pytest
